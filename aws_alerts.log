@@ -1,0 +1,36 @@
+[2025-07-27 21:45:53] 🎯 AWS CloudWatch Alarm Creation Script Started
+[2025-07-27 21:45:53] 🔍 Validating prerequisites...
+[2025-07-27 21:45:53] 📁 Found input file: aws_vms.yaml
+[2025-07-27 21:45:58] ✅ Prerequisites validation passed
+[2025-07-27 21:45:58] 📝 Initializing output file...
+[2025-07-27 21:45:58] 🚀 Starting AWS CloudWatch alarm creation process
+[2025-07-27 21:45:58] 📊 Processing instances from aws_vms.yaml...
+[2025-07-27 21:45:58] 📋 Parsing YAML format...
+[2025-07-27 21:45:58] 📍 Processing instance 2: saviynt-test-sc2-server
+[2025-07-27 21:45:58] 🔄 Processing: saviynt-test-sc2-server (i-09e31bb03bc59baaf) in us-east-1
+[2025-07-27 21:46:01] ⚠️  Warning: Instance i-09e31bb03bc59baaf not found in region us-east-1
+[2025-07-27 21:46:01] 📈 Processing Summary:
+[2025-07-27 21:46:01]    Total processed: 2
+[2025-07-27 21:46:01]    Successful alarms: 0
+[2025-07-27 21:46:01]    Failed alarms: 1
+[2025-07-27 21:46:01]    Input file format: aws_vms.yaml
+[2025-07-27 21:46:01]    Output saved to: aws_alerts_output.json
+[2025-07-27 21:46:01] ✅ Script execution completed successfully
+[2025-07-27 21:46:57] 🎯 AWS CloudWatch Alarm Creation Script Started
+[2025-07-27 21:46:57] 🔍 Validating prerequisites...
+[2025-07-27 21:46:57] 📁 Found input file: aws_vms.yaml
+[2025-07-27 21:47:01] ✅ Prerequisites validation passed
+[2025-07-27 21:47:01] 📝 Initializing output file...
+[2025-07-27 21:47:01] 🚀 Starting AWS CloudWatch alarm creation process
+[2025-07-27 21:47:01] 📊 Processing instances from aws_vms.yaml...
+[2025-07-27 21:47:01] 📋 Parsing YAML format...
+[2025-07-27 21:47:02] 📍 Processing instance 2: saviynt-test-sc2-server
+[2025-07-27 21:47:02] 🔄 Processing: saviynt-test-sc2-server (i-09e31bb03bc59baaf) in us-east-1
+[2025-07-27 21:47:04] ⚠️  Warning: Instance i-09e31bb03bc59baaf not found in region us-east-1
+[2025-07-27 21:47:04] 📈 Processing Summary:
+[2025-07-27 21:47:04]    Total processed: 2
+[2025-07-27 21:47:04]    Successful alarms: 0
+[2025-07-27 21:47:04]    Failed alarms: 1
+[2025-07-27 21:47:04]    Input file format: aws_vms.yaml
+[2025-07-27 21:47:04]    Output saved to: aws_alerts_output.json
+[2025-07-27 21:47:04] ✅ Script execution completed successfully
